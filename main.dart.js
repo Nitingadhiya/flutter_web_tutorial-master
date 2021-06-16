@@ -30796,7 +30796,7 @@ $it:1}
 P.EA.prototype={}
 P.EB.prototype={}
 F.xp.prototype={
-K:function(a,b){return new S.pf(new V.wH(null),"Flutter Demo",X.a3n(null,C.ec),null)}}
+K:function(a,b){return new S.pf(new V.wH(null),"Flutter Demo1",X.a3n(null,C.ec),null)}}
 V.wH.prototype={
 K:function(a,b){var s=null,r=L.ZY("Hello Youtube to Flutter Explained!",s)
 return new M.ql(new E.nO(r,new P.ad(1/0,56),s),M.Id(s,T.HK(L.ZY("Flutter Explained",A.qY(s,s,s,s,s,s,s,s,s,s,s,102,s,s,s,s,!0,s,s,s,s,s,s,s)),s,s),s,s,s,s,s),s)}}
